@@ -13,7 +13,7 @@ https://fw.angelfarmers.com - official version for AngelFamers guild members
 
 
 ### Features overview:
-1. Calculate current value of your farm assets
+1. Calculate current value of your farm assets and helping you earn moneeey
 2. Estimate earnings and ROI
 3. Automatically perform mundane actions like claiming, repairing, recovering energy, feeding animals and more
 4. Easily perform farm management actions like Withdraw and deposit funds, Exchange tokens, Transfer NFTs and tokens, Craft and buy in the game market, Stake for CPU, Exchange crops, Sell NFTs on Atomic and etc.
